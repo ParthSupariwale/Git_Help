@@ -1,0 +1,34 @@
+{
+    "name": "github-productivity-tracker",
+    "version": "1.0.0",
+    "description": "Tracks real coding activity for GitHub!",
+    "main": "extension.js",
+    "engines": {
+        "vscode": "^1.80.0"
+    },
+    "activationEvents": [
+        "onStartupFinished"
+    ],
+    "contributes": {
+        "commands": [
+            {
+                "command": "logLeetCodeTime",
+                "title": "Log LeetCode Time"
+            }
+        ]
+    },
+    "dependencies": {
+        "@octokit/rest": "^20.0.0",
+        "node-fetch": "^2.6.7"
+    },
+    "devDependencies": {
+        "@types/vscode": "^1.97.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs"
+}
