@@ -36,17 +36,6 @@ Fixed API response parsing bug
 Solved LeetCode#215: Array Sorting
 
 
-## 💼 Why Developers Love This
-Job Seekers: Showcase actual work during interviews
-
-Freelancers: Document hourly efforts for clients
-
-Learners: Track skill development milestones
-
-Teams: Encourage healthy coding habits
-
-
-
 ## 📥 Pre-requisites
 1. User should have GitHub Personal Access Token
  
@@ -66,6 +55,16 @@ Teams: Encourage healthy coding habits
 3. Code normally - tracking starts automatically!
 
 Get daily proof of your coding awesomeness 🦄
+
+
+## 💼 Why Developers Love This
+Job Seekers: Showcase actual work during interviews
+
+Freelancers: Document hourly efforts for clients
+
+Learners: Track skill development milestones
+
+Teams: Encourage healthy coding habits
 
 
 Perfect For:
