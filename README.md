@@ -36,6 +36,17 @@ Fixed API response parsing bug
 Solved LeetCode#215: Array Sorting
 
 
+## 💼 Why Developers Love This
+Job Seekers: Showcase actual work during interviews
+
+Freelancers: Document hourly efforts for clients
+
+Learners: Track skill development milestones
+
+Teams: Encourage healthy coding habits
+
+
+
 ## 📥 Pre-requisites
 1. User should have GitHub Personal Access Token
  
@@ -47,17 +58,7 @@ Solved LeetCode#215: Array Sorting
    To create one goto:
    
    Google AI Stusio -> Get API Key -> Create API Key
-
-
-## 💼 Why Developers Love This
-Job Seekers: Showcase actual work during interviews
-
-Freelancers: Document hourly efforts for clients
-
-Learners: Track skill development milestones
-
-Teams: Encourage healthy coding habits
-
+   
 
 ## 📥 Installation
 1. Click Install from marketplace
